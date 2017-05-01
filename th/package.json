@@ -1,0 +1,10 @@
+{
+  "name": "th",
+  "version": "0.0.0",
+  "dependencies": {
+    "con": "file:../con",
+    "node-gyp": "^3.3.1",
+    "node-sass": "^3.13.1",
+    "npmlog": "^2.0.0"
+  }
+}

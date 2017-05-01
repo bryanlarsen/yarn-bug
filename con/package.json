@@ -1,9 +1,10 @@
 {
-  "name": "a",
+  "name": "con",
   "version": "0.0.0",
   "dependencies": {
     "config-chain": "^1.1.11",
     "npmlog": "^4.0.2",
-    "osenv": "^0.1.4"
+    "osenv": "^0.1.4",
+    "clara": "^0.3.0"
   }
 }
